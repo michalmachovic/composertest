@@ -1,0 +1,14 @@
+{
+	"name":"michalmachovic/composertest",
+	"description": "Composer test",
+	"require": {
+		"michalmachovic/composertest": "*"
+	},
+	"repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:michalmachovic/composertest.git"
+        }
+    ]
+	
+}
