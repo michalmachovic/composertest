@@ -3,7 +3,7 @@
 	"description": "Composer test",
 	"require": {
 		"php": "~5.6.0|~7.0.0",
-		"michalmachovic/composertest":"*"
+		"michalmachovic/composertest":"master"
 	},
 	"repositories": [
         {
