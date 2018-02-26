@@ -1,10 +1,9 @@
 {
 	"name":"michalmachovic/composertest",
-	"minimum-stability": "master",
 	"description": "Composer test",
 	"require": {
 		"php": "~5.6.0|~7.0.0",
-		"michalmachovic/composertest":"master"
+		"michalmachovic/composertest"
 	},
 	"repositories": [
         {
