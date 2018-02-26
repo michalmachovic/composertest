@@ -1,11 +1,7 @@
 {
-    "require": {
-     	"michalmachovic/composertest":"dev-master"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "git@github.com:michalmachovic/composertest.git"
-        }
-    ]
+	"name": "michalmachovic/composertest",
+	"description": "Composer test",
+	"type": "vcs",
+	"url": "git@bitbucket.org:michalmachovic/composertest.git",
+	
 }
