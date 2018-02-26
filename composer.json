@@ -2,6 +2,6 @@
 	"name": "michalmachovic/composertest",
 	"description": "Composer test",
 	"type": "vcs",
-	"url": "git@bitbucket.org:michalmachovic/composertest.git",
+	"url": "git@bitbucket.org:michalmachovic/composertest.git"
 	
 }
