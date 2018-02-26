@@ -1,6 +1,7 @@
 {
     "name": "michalmachovic/composertest",
     "description": "test description",
+    "minimum-stability": "dev",
     "require": {},
     "repositories": [
         {
