@@ -1,14 +1,11 @@
 {
-	"name":"michalmachovic/composertest",
-	"description": "Composer test",
-	"require": {
-		"michalmachovic/composertest"
-	},
-	"repositories": [
+    "name": "michalmachovic/composertest",
+    "description": "test description",
+    "require": {},
+    "repositories": [
         {
             "type": "vcs",
             "url":  "git@github.com:michalmachovic/composertest.git"
         }
     ]
-	
 }
